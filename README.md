@@ -1,4 +1,4 @@
-# Regras de Associação com Apriori
+# 📊 Regras de Associação com Apriori
 
 Este projeto demonstra a aplicação do algoritmo **Apriori** para mineração de regras de associação, utilizando o conjunto de dados de compras de um supermercado. O notebook inclui a etapa de pré-processamento dos dados. As análise das regras foram realizadas no `Weka`.
 
@@ -15,7 +15,7 @@ Extrair padrões e regras de associação relevantes entre itens comprados junto
 - `notebook.ipynb`: Notebook principal contendo:
   - Leitura e preparação dos dados
   - Transformação dos dados no formato apropriado
-  - Aplicação do algoritmo realizada no **Weka**, com exportação dos dados para o formato `.arff`.
+  - Aplicação do algoritmo realizada no **Weka**, com exportação dos dados para o formato `.csv`.
   - Análise e visualização dos resultados
 
 ## 🛠️ Bibliotecas Utilizadas
@@ -32,3 +32,9 @@ Extrair padrões e regras de associação relevantes entre itens comprados junto
 - **Leverage**
 
 Essas métricas foram utilizadas para selecionar as regras mais relevantes.
+
+## 👨‍💻 Autores
+
+- Flávio Tomás Peña Villa
+- Ítalo Fraga Botelho
+- Tiago Noda Von Zuben
