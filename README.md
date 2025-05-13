@@ -8,7 +8,7 @@ Extrair padrões e regras de associação relevantes entre itens comprados junto
 
 ## 🧠 Algoritmo Utilizado
 
-- **Apriori**: Algoritmo de aprendizado não supervisionado utilizado para descobrir relações frequentes entre itens em grandes bases de dados transacionais.
+**Apriori**: Algoritmo de aprendizado não supervisionado utilizado para descobrir relações frequentes entre itens em grandes bases de dados transacionais.
 
 ## 📂 Estrutura do Projeto
 
